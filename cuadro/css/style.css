@@ -1,0 +1,90 @@
+html{
+    box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit
+}
+body{
+    background-color: black;
+}
+.contenedor{
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+img{
+    max-width: 100%;
+}
+
+.portada img{
+    border: solid 5px white;
+    display: inline-block;
+    background-color: white;
+}
+
+p{
+    color: white;
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+a{
+    text-decoration:none;
+}
+
+.sector1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icono-corazon i{
+    color: green;
+    font-size: 18px;
+}
+
+.icono-imagen img{
+    width: 22px;
+    
+}
+
+.icono-imagen2 img{
+    width: 35px;
+    
+}
+
+.icono1 i{
+    font-size: 20px;
+    color: white;
+}
+
+.iconos2 i{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 12px;
+    padding: 0px 12px;
+    color: white;
+}
+
+.final{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.icono-play i{
+    font-size: 50px;
+}
+
+.spotify img{
+    display: inline-block;
+    width: 50%;
+}
+
+.spotify{
+    text-align: center;
+}

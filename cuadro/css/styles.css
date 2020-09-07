@@ -1,0 +1,78 @@
+html{
+    box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 100%;
+}
+
+.portada img{
+    border: solid 5px black;
+    display: inline-block;
+    background-color: black;
+}
+
+span{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+
+.sector1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icono-corazon i{
+    color: green;
+    font-size: 18px;
+}
+
+.icono-imagen img{
+    width: 21px;
+    
+}
+
+
+.icono1{
+    font-size: 20px;
+}
+
+.iconos2 i{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 12px;
+    padding: 0px 12px;
+}
+
+.final{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.icono-play i{
+    font-size: 50px;
+}
+
+.spotify img{
+    display: inline-block;
+    width: 50%;
+}
+
+.spotify{
+    text-align: center;
+}

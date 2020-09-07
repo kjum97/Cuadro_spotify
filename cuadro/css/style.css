@@ -9,7 +9,7 @@ body{
 }
 .contenedor{
     width: 90%;
-    max-width: 800px;
+    max-width: 500px;
     margin: 0 auto;
     background-color: black;
 }
@@ -46,11 +46,6 @@ a{
 .icono-corazon i{
     color: green;
     font-size: 18px;
-}
-
-.barra img{
-    width: 100%;
-    
 }
 
 .icono-imagen img{

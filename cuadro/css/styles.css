@@ -5,6 +5,9 @@ html{
     box-sizing: inherit
 }
 
+body{
+    background-color: white;
+}
 .contenedor{
     width: 90%;
     max-width: 500px;
@@ -14,9 +17,10 @@ html{
 
 .contenedor2{
     width: 90%;
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
-    background-color: coral;
+    background-color:white;
+    border: solid 5px black;
 }
 
 img{
@@ -27,6 +31,12 @@ img{
     border: solid 5px black;
     display: inline-block;
     background-color: black;
+    margin-top: 15px;
+}
+
+.margin{
+    margin-bottom: 0px;
+    margin-top: 10px;
 }
 
 span{
@@ -38,6 +48,7 @@ a{
     text-decoration:none;
     color: black;
 }
+
 
 .sector1{
     display: flex;
@@ -51,10 +62,9 @@ a{
 }
 
 .icono-imagen img{
-    width: 21px;
+    width: 22px;
     
 }
-
 
 .icono1{
     font-size: 20px;
@@ -68,7 +78,7 @@ a{
 }
 
 .final{
-    margin-top: 50px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 

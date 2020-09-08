@@ -5,13 +5,21 @@ html{
     box-sizing: inherit
 }
 body{
-    background-color: black;
+    background-color:black;
 }
 .contenedor{
     width: 90%;
     max-width: 500px;
     margin: 0 auto;
     background-color: black;
+}
+
+.contenedor2{
+    width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: black;
+    border: solid 5px white;
 }
 
 img{
@@ -22,10 +30,17 @@ img{
     border: solid 5px white;
     display: inline-block;
     background-color: white;
+    margin-top: 15px;
+}
+
+.margin{
+    margin-bottom: 0px;
+    margin-top: 10px;
 }
 
 p{
     color: white;
+  
 }
 span{
     font-size: 20px;
@@ -72,7 +87,7 @@ a{
 }
 
 .final{
-    margin-top: 50px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 

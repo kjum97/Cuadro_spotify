@@ -17,17 +17,17 @@ body{
 .contenedor2{
     width: 90%;
     max-width: 650px;
-    margin-top: 55px; margin-bottom: 20px; margin-left: auto; margin-right: auto;
+    margin-top: 55px; margin-bottom: 30px; margin-left: auto; margin-right: auto;
     background-color: black;
     border: solid 5px white;
 }
 
 .contenedor3{
     width: 90%;
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0px auto;
     background-color: black;
-    border: solid 5px white;
+   /* border: solid 5px white;*/
 }
 
 img{

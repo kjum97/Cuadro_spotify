@@ -23,6 +23,15 @@ body{
     border: solid 5px black;
 }
 
+.contenedor3{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0px auto;
+    background-color: black;
+   /* border: solid 5px white;*/
+}
+
+
 img{
     max-width: 100%;
 }

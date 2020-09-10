@@ -41,6 +41,8 @@ img{
     display: inline-block;
     background-color: black;
     margin-top: 15px;
+    height: 500px;
+    width: 500px;
 }
 
 .margin{

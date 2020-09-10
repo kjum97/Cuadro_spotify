@@ -18,7 +18,7 @@ body{
 .contenedor2{
     width: 90%;
     max-width: 700px;
-    margin-top: 55px; margin-bottom: 20px; margin-left: auto; margin-right: auto;
+    margin-top: 55px; margin-bottom: 45px; margin-left: auto; margin-right: auto;
     background-color:white;
     border: solid 5px black;
 }
@@ -30,7 +30,6 @@ body{
     background-color: black;
   /*  border: solid 5px white;*/
 }
-
 
 img{
     max-width: 100%;

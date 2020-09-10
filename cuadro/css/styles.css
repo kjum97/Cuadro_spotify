@@ -10,7 +10,7 @@ body{
 }
 .contenedor{
     width: 90%;
-    max-width: 500px;
+    max-width: 550px;
     margin: 10px auto;
     background-color: white;
 }
@@ -28,7 +28,7 @@ body{
     max-width: 1000px;
     margin: 0px auto;
     background-color: black;
-   border: solid 5px white;
+    border: solid 5px white;
 }*/
 
 

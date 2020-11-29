@@ -1,2 +1,3 @@
 # star_kitty
-Mapa_estelares
+cuadro de potify
+
